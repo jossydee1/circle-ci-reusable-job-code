@@ -37,4 +37,4 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
-      - my_jobs
+      - my_job
